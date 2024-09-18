@@ -1,5 +1,5 @@
 config:
-  name: "sdf"
-  pass: "ddd"
+  name: "config name"
+  pass: "config pass"
   other:
     url: "https://example.com"

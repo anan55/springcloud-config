@@ -1,5 +1,5 @@
 config:
-  name: "sdf"
-  pass: "ddd"
+  name: "config name form mysql-dev.yml"
+  pass: "config pass form mysql-dev.yml"
   other:
     url: "https://example.com"
